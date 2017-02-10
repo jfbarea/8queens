@@ -1,0 +1,17 @@
+.tile {
+  height: 50px;
+  width: 50px;
+  display: block;
+  padding: 0px;
+  margin: 0px;
+  float: left;
+}
+.black {
+  background: #61210B;
+}
+.white {
+  background: #F5DA81;
+}
+.row {
+  : 50px;
+}
